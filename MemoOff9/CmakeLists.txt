@@ -1,0 +1,27 @@
+cmake_minimum_required(VERSION 3.20.0)
+project(MemoOff9)
+
+set(CMAKE_CXX_STANDARD 20)
+
+set(SOURCE_DIR "${CMAKE_CURRENT_LIST_DIR}/src")
+file(GLOB_RECURSE SOURCES "${SOURCE_DIR}/*.cpp")
+
+
+add_library(${PROJECT_NAME} SHARED ${SOURCES})
+
+add_compile_options("/source-charset:utf-8")
+
+file(GLOB HEADER_DIR ALL_FILES_AND_DIRS 
+    "${SOURCE_DIR}/*"
+    "${SOURCE_DIR}/*/*"
+    "${SOURCE_DIR}/*/*/*"
+)
+list(FILTER HEADER_DIR EXCLUDE REGEX ".*\\..*")
+
+target_include_directories(${PROJECT_NAME} PUBLIC  
+    ${SOURCE_DIR}
+    ${HEADER_DIR}
+)
+set_target_properties(${PROJECT_NAME} PROPERTIES
+    LINK_FLAGS "/MANIFEST:NO"
+)
