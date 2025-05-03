@@ -34,7 +34,4 @@
 	path = ValkyriaTools/ValkyriaTools
 	url = https://github.com/cokkeijigen/ValkyriaTools.git
 	branch = master
-[submodule "Other/dpm_unpack"]
-	path = Other/dpm_unpack
-	url = https://github.com/cokkeijigen/dpm_unpack.git
-	branch = master
+
