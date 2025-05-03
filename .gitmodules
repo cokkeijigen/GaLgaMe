@@ -1,3 +1,6 @@
 [submodule "CircusEngine/MesTextTool"]
 	path = CircusEngine/MesTextTool
 	url = https://github.com/cokkeijigen/MesTextTool.git
+[submodule "CircusEngine/CircusEnginePatchs"]
+	path = CircusEngine/CircusEnginePatchs
+	url = https://github.com/cokkeijigen/circus_engine_patchs.git
