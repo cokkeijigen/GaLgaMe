@@ -30,3 +30,7 @@
 	path = YukaScriptTool/YukaScriptTool
 	url = https://github.com/cokkeijigen/YukaScriptTool.git
 	branch = master
+[submodule "ValkyriaTools/ValkyriaTools"]
+	path = ValkyriaTools/ValkyriaTools
+	url = https://github.com/cokkeijigen/ValkyriaTools.git
+	branch = master
