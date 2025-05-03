@@ -6,3 +6,7 @@
 	path = CircusEngine/MesTextTool
 	url = https://github.com/cokkeijigen/MesTextTool.git
 	branch = master
+[submodule "CircusEngine/CircusEnginePatchs"]
+	path = CircusEngine/CircusEnginePatchs
+	url = https://github.com/cokkeijigen/circus_engine_patchs.git
+	branch = master
