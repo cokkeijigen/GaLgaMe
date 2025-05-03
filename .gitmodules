@@ -18,3 +18,7 @@
 	path = doko_iku_cn
 	url = https://github.com/cokkeijigen/doko_iku_cn.git
 	branch = master
+[submodule "UnityEngine/GS3IL2CPPForSwitch"]
+	path = UnityEngine/GS3IL2CPPForSwitch
+	url = https://github.com/cokkeijigen/GS3IL2CPPForSwitch.git
+	branch = master
