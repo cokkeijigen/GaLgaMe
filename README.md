@@ -1,2 +1,2 @@
-# galgame
+# mYGaLgaMe
 这里会存放我写的或者收集的一些奇奇怪怪的gal相关的东西
