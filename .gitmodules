@@ -18,3 +18,7 @@
 	path = UnityEngine/GS3IL2CPPForSwitch
 	url = https://github.com/cokkeijigen/GS3IL2CPPForSwitch.git
 	branch = master
+[submodule "UnityEngine/kamiiro_no_otome"]
+	path = UnityEngine/kamiiro_no_otome
+	url = https://github.com/cokkeijigen/kamiiro_no_otome.git
+	branch = master
