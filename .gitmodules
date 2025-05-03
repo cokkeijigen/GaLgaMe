@@ -39,3 +39,7 @@
 	path = Other/dpm_unpack
 	url = https://github.com/cokkeijigen/dpm_unpack.git
 	branch = master
+[submodule "Other/doko_iku_cn"]
+	path = Other/doko_iku_cn
+	url = https://github.com/cokkeijigen/doko_iku_cn.git
+	branch = master
