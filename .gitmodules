@@ -22,7 +22,3 @@
 	path = UnityEngine/kamiiro_no_otome
 	url = https://github.com/cokkeijigen/kamiiro_no_otome.git
 	branch = master
-[submodule "UnityEngine/mono_tool"]
-	path = UnityEngine/mono_tool
-	url = https://github.com/cokkeijigen/mono_tool.git
-	branch = master
