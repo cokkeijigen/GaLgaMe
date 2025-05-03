@@ -4,3 +4,6 @@
 [submodule "CircusEngine/CircusEnginePatchs"]
 	path = CircusEngine/CircusEnginePatchs
 	url = https://github.com/cokkeijigen/circus_engine_patchs.git
+[submodule "UnityEngine/lostsmile_cn"]
+	path = UnityEngine/lostsmile_cn
+	url = https://github.com/cokkeijigen/lostsmile_cn.git
