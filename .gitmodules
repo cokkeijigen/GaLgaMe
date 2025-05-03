@@ -5,3 +5,4 @@
 [submodule "CircusEngine/MesTextTool"]
 	path = CircusEngine/MesTextTool
 	url = https://github.com/cokkeijigen/MesTextTool.git
+	branch = master
