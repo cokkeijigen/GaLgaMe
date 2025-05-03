@@ -14,3 +14,7 @@
 	path = UnityEngine/lostsmile_cn
 	url = https://github.com/cokkeijigen/lostsmile_cn
 	branch = master
+[submodule "UnityEngine/GS3IL2CPPForSwitch"]
+	path = UnityEngine/GS3IL2CPPForSwitch
+	url = https://github.com/cokkeijigen/GS3IL2CPPForSwitch.git
+	branch = master
