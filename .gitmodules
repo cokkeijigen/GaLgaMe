@@ -14,3 +14,7 @@
 	path = ValkyriaTools
 	url = https://github.com/cokkeijigen/ValkyriaTools.git
 	branch = master
+[submodule "doko_iku_cn"]
+	path = doko_iku_cn
+	url = https://github.com/cokkeijigen/doko_iku_cn.git
+	branch = master
