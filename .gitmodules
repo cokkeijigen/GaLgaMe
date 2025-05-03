@@ -2,3 +2,6 @@
 	path = MemoOff9/MemoOff9
 	url = https://github.com/cokkeijigen/MemoOff9
 	branch = master
+[submodule "CircusEngine/MesTextTool"]
+	path = CircusEngine/MesTextTool
+	url = https://github.com/cokkeijigen/MesTextTool.git
