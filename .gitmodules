@@ -26,3 +26,7 @@
 	path = UnityEngine/mono_tool
 	url = https://github.com/cokkeijigen/mono_tool.git
 	branch = master
+[submodule "YukaScriptTool/YukaScriptTool"]
+	path = YukaScriptTool/YukaScriptTool
+	url = https://github.com/cokkeijigen/YukaScriptTool.git
+	branch = master
