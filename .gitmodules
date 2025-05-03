@@ -10,3 +10,7 @@
 	path = CircusEngine/CircusEnginePatchs
 	url = https://github.com/cokkeijigen/circus_engine_patchs.git
 	branch = master
+[submodule "UnityEngine/lostsmile_cn"]
+	path = UnityEngine/lostsmile_cn
+	url = https://github.com/cokkeijigen/lostsmile_cn
+	branch = master
