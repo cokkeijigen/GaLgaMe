@@ -43,3 +43,7 @@
 	path = Other/doko_iku_cn
 	url = https://github.com/cokkeijigen/doko_iku_cn.git
 	branch = master
+[submodule "Other/amatsutsumi_android"]
+	path = Other/amatsutsumi_android
+	url = https://github.com/cokkeijigen/amatsutsumi_android.git
+	branch = master
