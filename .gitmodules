@@ -47,3 +47,7 @@
 	path = Other/amatsutsumi_android
 	url = https://github.com/cokkeijigen/amatsutsumi_android.git
 	branch = master
+[submodule "UnityEngine/MonoEnableDebugger"]
+	path = UnityEngine/MonoEnableDebugger
+	url = https://github.com/cokkeijigen/MonoEnableDebugger
+	branch = master
