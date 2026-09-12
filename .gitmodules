@@ -51,3 +51,7 @@
 	path = UnityEngine/MonoEnableDebugger
 	url = https://github.com/cokkeijigen/MonoEnableDebugger
 	branch = master
+[submodule "CircusEngine/ImageCRX"]
+	path = CircusEngine/ImageCRX
+	url = https://github.com/cokkeijigen/ImageCRX.git
+	branch = master
