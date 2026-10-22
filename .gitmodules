@@ -55,3 +55,7 @@
 	path = CircusEngine/ImageCRX
 	url = https://github.com/cokkeijigen/ImageCRX.git
 	branch = master
+[submodule "KRKRZ/psdpimg"]
+	path = KRKRZ/psdpimg
+	url = https://github.com/cokkeijigen/psdpimg.git
+	branch = master
